@@ -9,11 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 95d65c506b2924c1aa582cd252c7ed17, type: 3}
-  m_Name: SetPlayerHalth
+  m_Script: {fileID: 11500000, guid: cf41995122cae44cb90a8b027f1dd879, type: 3}
+  m_Name: TagPlayer
   m_EditorClassIdentifier: 
-  Variable: {fileID: 11400000, guid: 1fad5e43bfb1bfc49b52568dbcc13022, type: 2}
-  Value:
-    UseConstant: 1
-    ConstantValue: 100
-    Variable: {fileID: 0}
+  DeveloperDescription: Tag do jogador
+  _value: Player

@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: Health
   m_EditorClassIdentifier: 
   DeveloperDescription: Vida do jogador
-  value: 100
-  oldValue: 0
+  _value: 100
+  _initialValue: 100
+  _oldValue: 0
   Changed: {fileID: 11400000, guid: 782565a2819b82241b4f68635c921ce4, type: 2}
   ChangedWithHistory: {fileID: 0}

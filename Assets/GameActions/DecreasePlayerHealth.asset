@@ -12,3 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ff377906d455ce41927324a0e482f9a, type: 3}
   m_Name: DecreasePlayerHealth
   m_EditorClassIdentifier: 
+  _tagPlayer: {fileID: 11400000, guid: 2b0b022735018c346a32a85395f7c544, type: 2}
